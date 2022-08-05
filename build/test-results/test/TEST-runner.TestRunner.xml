@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.TestRunner" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-08-04T20:49:53" hostname="DESKTOP-OV1V0BK" time="4.303">
+  <properties/>
+  <testcase name="Create user" classname="runner.TestRunner" time="3.004"/>
+  <testcase name="Creates list of users with given input array" classname="runner.TestRunner" time="0.071"/>
+  <testcase name="Logs user into the system" classname="runner.TestRunner" time="0.244"/>
+  <testcase name="Logs out current logged in user session" classname="runner.TestRunner" time="0.11"/>
+  <testcase name="Get user by user name" classname="runner.TestRunner" time="0.078"/>
+  <testcase name="update user" classname="runner.TestRunner" time="0.051"/>
+  <testcase name="Delete user" classname="runner.TestRunner" time="0.045"/>
+  <testcase name="Add a new pet to the store" classname="runner.TestRunner" time="0.056"/>
+  <testcase name="Finds Pets by status" classname="runner.TestRunner" time="0.055"/>
+  <testcase name="Finds Pets by tags" classname="runner.TestRunner" time="0.053"/>
+  <testcase name="Finds Pets by ID" classname="runner.TestRunner" time="0.056"/>
+  <testcase name="Updates a pet in the store with form data" classname="runner.TestRunner" time="0.064"/>
+  <testcase name="Deletes a pet" classname="runner.TestRunner" time="0.182"/>
+  <testcase name="uploads an image" classname="runner.TestRunner" time="0.043"/>
+  <testcase name="Returns pet inventories by status" classname="runner.TestRunner" time="0.039"/>
+  <testcase name="Place an order for a pet" classname="runner.TestRunner" time="0.034"/>
+  <testcase name="Find purchase order by ID" classname="runner.TestRunner" time="0.031"/>
+  <testcase name="Delete purchase order by ID" classname="runner.TestRunner" time="0.079"/>
+  <system-out><![CDATA[The status received: HTTP/1.1 200 OK
+The status received: HTTP/1.1 200 OK
+Status received => HTTP/1.1 200 OK
+Logged in user session: 5440580776191576064
+Response=>Logged in user session: 5440580776191576064
+Status received => HTTP/1.1 200 OK
+User logged out
+Response=>User logged out
+Status received => HTTP/1.1 200 OK
+{
+    "id": 10,
+    "username": "theUser",
+    "firstName": "John",
+    "lastName": "James",
+    "email": "john@email.com",
+    "password": "12345",
+    "phone": "12345",
+    "userStatus": 1
+}
+Response=>{
+    "id": 10,
+    "username": "theUser",
+    "firstName": "John",
+    "lastName": "James",
+    "email": "john@email.com",
+    "password": "12345",
+    "phone": "12345",
+    "userStatus": 1
+}
+The response code - 200
+The response code - 404
+The status received: HTTP/1.1 200 OK
+Status received => HTTP/1.1 200 OK
+[
+    {
+        "id": 3,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "Cat 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "pending"
+    },
+    {
+        "id": 6,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dog 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "pending"
+    }
+]
+Response=>[
+    {
+        "id": 3,
+        "category": {
+            "id": 2,
+            "name": "Cats"
+        },
+        "name": "Cat 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "pending"
+    },
+    {
+        "id": 6,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "Dog 3",
+        "photoUrls": [
+            "url1",
+            "url2"
+        ],
+        "tags": [
+            {
+                "id": 1,
+                "name": "tag3"
+            },
+            {
+                "id": 2,
+                "name": "tag4"
+            }
+        ],
+        "status": "pending"
+    }
+]
+Status received => HTTP/1.1 200 OK
+[
+    {
+        "id": 10,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    }
+]
+Response=>[
+    {
+        "id": 10,
+        "category": {
+            "id": 1,
+            "name": "Dogs"
+        },
+        "name": "doggie",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "available"
+    }
+]
+Status received => HTTP/1.1 200 OK
+{
+    "id": 10,
+    "category": {
+        "id": 1,
+        "name": "Dogs"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "available"
+}
+Response=>{
+    "id": 10,
+    "category": {
+        "id": 1,
+        "name": "Dogs"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "available"
+}
+The status received: HTTP/1.1 400 Bad Request
+The response code is - 200
+The status received: HTTP/1.1 415 Unsupported Media Type
+Status received => HTTP/1.1 200 OK
+{
+    "approved": 57,
+    "placed": 100,
+    "delivered": 50
+}
+Response=>{
+    "approved": 57,
+    "placed": 100,
+    "delivered": 50
+}
+The status received: HTTP/1.1 200 OK
+Status received => HTTP/1.1 200 OK
+{
+    "id": 10,
+    "petId": 198772,
+    "quantity": 7,
+    "shipDate": "2022-08-02T19:38:29.170+00:00",
+    "status": "approved",
+    "complete": true
+}
+Response=>{
+    "id": 10,
+    "petId": 198772,
+    "quantity": 7,
+    "shipDate": "2022-08-02T19:38:29.170+00:00",
+    "status": "approved",
+    "complete": true
+}
+Data from the GET API- {"code":404,"message":"HTTP 404 Not Found"}
+]]></system-out>
+  <system-err><![CDATA[?????????????????????????????????????????????????????????????????????????????????????
+? Share your Cucumber Report with your team at https://reports.cucumber.io          ?
+? Activate publishing with one of the following:                                    ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.enabled=true    ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.enabled=true    ?
+? Environment variable:                            CUCUMBER_PUBLISH_ENABLED=true    ?
+? JUnit:                                           @CucumberOptions(publish = true) ?
+?                                                                                   ?
+? More information at https://cucumber.io/docs/cucumber/environment-variables/      ?
+?                                                                                   ?
+? Disable this message with one of the following:                                   ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.quiet=true      ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.quiet=true      ?
+?????????????????????????????????????????????????????????????????????????????????????
+]]></system-err>
+</testsuite>
