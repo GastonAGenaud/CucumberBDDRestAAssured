@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c60d085-903b-46e5-8ff3-431fd9c6120b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/cucumber.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/jquery.tablesorter.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1670261310.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1670261310.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1_2056256706.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1_2056256706.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1_3822272492.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_1_3822272492.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2056256706.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2056256706.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2_3822272492.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2_3822272492.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2_4287266840.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_2_4287266840.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_3988427916.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_3988427916.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_3_4287266840.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_3_4287266840.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_4163263621.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/cucumber-html-reports/report-feature_4163263621.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/runner.TestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/runner.TestRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/runner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/runner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/featureFiles/User.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/featureFiles/User.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/featureFiles/petShop.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/featureFiles/petShop.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/featureFiles/store.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/featureFiles/store.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-runner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-runner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step/definitions/generalSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/definitions/generalSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/featureFiles/User.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/User.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/featureFiles/petShop.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/petShop.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/featureFiles/store.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/store.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2CwKFaPEiorG1Tc1QIAI0PQZV9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c60d085-903b-46e5-8ff3-431fd9c6120b" name="Changes" comment="" />
+      <created>1659708104618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659708104618</updated>
+      <workItem from="1659708107244" duration="196000" />
+    </task>
+    <servers />
+  </component>
+</project>

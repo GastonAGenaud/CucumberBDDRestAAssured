@@ -1,4 +1,4 @@
-Feature: Operatios about user
+Feature: Operations about user
 
   Scenario: Create user
     Given Get Call to "url"
@@ -47,7 +47,7 @@ Feature: Operatios about user
     Given Get Call to "url"
     When I send a GET request to "/user/theUser" with query parameter "username"
 
-  Scenario: update user
+  Scenario: Update user
     Given Get Call to "url"
     When I send a PUT request to "/user/theUser" and request json:
             """
@@ -65,4 +65,4 @@ Feature: Operatios about user
 
   Scenario: Delete user
     Given Get Call to "url"
-    When I send a PUT request to "/user/user1" with query parameter "username"
+    Then I send a DELETE request to "/user/user1"
