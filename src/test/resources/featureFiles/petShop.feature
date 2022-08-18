@@ -1,4 +1,4 @@
-Feature: PetStore
+Feature: Operations about Pets
 
   Scenario: Add a new pet to the store
     Given Get Call to "url"
@@ -39,12 +39,12 @@ Feature: PetStore
 
   Scenario: Updates a pet in the store with form data
     Given Get Call to "url"
-    Then I send a POST request to "/pet/10" with query parameters "10", "doggie", "available"
+    Then I send a POST request to "/pet/10" with query parameters "doggie", "available"
 
   Scenario: Deletes a pet
     Given Get Call to "url"
     Then I send a DELETE request to "/pet/100" with query parameters "api_key", "100"
 
-  Scenario: uploads an image
+  Scenario: Upload an image
     Given Get Call to "url"
-    Then I send a POST request to "/pet/10/uploadImage" with query parameters "10", "additionalMetadata"
+    Then I send a POST request to "/pet/10/uploadImage"
